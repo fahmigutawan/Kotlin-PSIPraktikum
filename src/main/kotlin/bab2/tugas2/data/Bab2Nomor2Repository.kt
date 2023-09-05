@@ -1,5 +1,5 @@
 package bab2.tugas2.data
 
-class Repository{
+class Bab2Nomor2Repository{
 
 }

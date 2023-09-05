@@ -1,5 +1,5 @@
 package bab2.tugas2.data
 
-class SimpleDatabase{
+class Bab2Nomor2Database{
 
 }
