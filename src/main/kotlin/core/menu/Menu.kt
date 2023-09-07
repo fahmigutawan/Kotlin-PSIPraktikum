@@ -1,8 +1,6 @@
 package core.menu
 
-class Menu(
+data class Menu(
     val route: String,
     val content:() -> Unit
-) {
-
-}
+)
